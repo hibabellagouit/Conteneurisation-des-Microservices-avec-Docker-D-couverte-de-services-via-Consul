@@ -99,13 +99,6 @@ Ce projet est une application microservices pour la gestion d'une flotte automob
 docker-compose up -d --build [nom_du_service]
 ```
 
-### Voir les logs des services
-```bash
-docker-compose logs -f [nom_du_service]
-```
-
-## Licence
-
 Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ## Auteur
